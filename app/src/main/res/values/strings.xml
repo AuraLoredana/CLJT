@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Cluj-Napoca</string>
+
+    <!--Attractions Names -->
+    <string name="banffy">Banffy Castle</string>
+    <string name="ethnography_museum">Ethnography Museum</string>
+    <string name="dormition">Dormition Cathedral</string>
+    <string name="matthias">Matthias Monument</string>
+
+
+    <!--Attractions Descriptions -->
+    <string name="banffy_desc">Bánffy Castle is an architectural monument situated in Bonţida, a village in the vicinity of Cluj-Napoca, Romania, with construction phases and stylistic features belonging to Renaissance, Baroque, Neoclassical and Neogothic styles."</string>
+    <string name="ethnography_museum_desc">The Transylvanian Museum of Ethnography is situated in Cluj-Napoca, Romania. With a history of more than 80 years, the Ethnographic Museum of Transylvania is one of the first and greatest of its kind in Romania</string>
+    <string name="dormition_desc">The Dormition of the Theotokos Cathedral is the most famous Romanian Orthodox church of Cluj-Napoca, Romania.</string>
+    <string name="matthias_desc">The Matthias Corvinus Monument is a monument in Cluj-Napoca, Romania. This classified historic monument, conceived by János Fadrusz and opened in 1902 </string>
+
+    <!-- Festivals Life -->
+    <string name="electric_castle">Electric Castle</string>
+    <string name="untold">Untold</string>
+
+    <!-- Festivals Descriptions -->
+    <string name="electric_desc">ELECTRIC CASTLE is a Romanian music festival that takes place every year on the Transylvanian spectacular domain of Banffy Castle, near Cluj-Napoca.</string>
+    <string name="untold_desc">Untold Festival is the largest annual electronic music festival held in Romania, taking place in Cluj-Napoca. Untold has been designated Best Major Festival within European Festival Awards 2015</string>
+    <string name="price">Price:</string>
+    <string name="attractions_tab_name">Attractions</string>
+    <string name="festivals_tab_name">Festivals</string>
+    <string name="food_tab_name">Restaurants</string>
+    <string name="hotel_tab_name">Hotels</string>
+    <string name="textView_place_description">Description</string>
+    <string name="textView_place_name">Name</string>
+
+    <!-- Hotels -->
+    <string name="grandhotel">Grand Hotel Napoca</string>
+    <string name="westcity">West City Hotel</string>
+
+
+    <!--Hotels Descriptions -->
+    <string name="grandhotel_desc"></string>
+    <string name="westcity_desc"></string>
+
+    <!-- Restaurants -->
+    <string name="roatarestaurant">Roata Restaurant</string>
+    <string name="baracca">Baracca Cluj</string>
+
+
+    <!--Restaurants Descriptions -->
+    <string name="roata_desc"></string>
+    <string name="baracca_desc"></string>
+
+</resources>
+
