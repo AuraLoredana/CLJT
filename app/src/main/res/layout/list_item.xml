@@ -22,7 +22,7 @@
         android:layout_marginTop="@dimen/dp4"
         android:layout_weight="1"
         android:src="@drawable/banffy"
-        tools:ignore="ContentDescription"/>
+        tools:ignore="ContentDescription" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -40,7 +40,7 @@
             android:lines="1"
             android:text="@string/textView_place_name"
             android:textSize="@dimen/sp16"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <TextView
             android:id="@+id/textView_place_description"
@@ -53,7 +53,7 @@
             android:scrollHorizontally="true"
             android:text="@string/textView_place_description"
             android:textSize="@dimen/sp12"
-            android:textStyle="italic"/>
+            android:textStyle="italic" />
 
         <TextView
             android:id="@+id/textView_place_likes"
@@ -62,7 +62,7 @@
             android:layout_gravity="start|bottom"
             android:layout_marginTop="@dimen/dp8"
             android:textSize="@dimen/sp12"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
@@ -79,7 +79,6 @@
             android:layout_height="wrap_content"
             android:text="@string/price"
             android:textSize="@dimen/sp16"
-
             />
 
         <TextView
@@ -89,6 +88,6 @@
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
             android:textSize="@dimen/sp12"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>

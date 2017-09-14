@@ -24,7 +24,6 @@ class PlaceAdapter extends ArrayAdapter<Place> {
         super(context, 0 ,places);
     }
 
-
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
@@ -44,15 +43,12 @@ class PlaceAdapter extends ArrayAdapter<Place> {
         TextView likesTextView = ButterKnife.findById(listItemView,R.id.textView_place_likes);
         ImageView mImageView = ButterKnife.findById(listItemView,R.id.imageView);
 
-
-
         assert place_item != null;
         placeNameTextView.setText(place_item.getPlaceName());
         descriptionTextView.setText(place_item.getDescription());
         likesTextView.setText("Likes ("+String.valueOf(place_item.getLikes())+")");
         priceTextView.setText(String.valueOf(place_item.getPrice()));
         mImageView.setImageResource(place_item.getImageResourceId());
-
 
         return listItemView;
     }

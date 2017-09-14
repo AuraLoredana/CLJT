@@ -39,14 +39,7 @@ public class  FestivalFragment extends Fragment {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                /*
-                *
-                * //TODO: Call related methods e.g
-                * Start Intent to DetailsPage (contains details,Booking redirection)
-                * depending on Item clicked
-                * Place selectedBar = (Place) parent.getItemAtPosition(position);
-                * callBooking(selectedBar);
-                */
+
             }
         });
 
